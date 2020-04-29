@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">121190927882-csmi3spvnio432l06v5dn2kagn7g8406.apps.googleusercontent.com</string>
+    <string name="firebase_database_url" translatable="false">https://decoded-bulwark-274906.firebaseio.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">121190927882</string>
+    <string name="google_api_key" translatable="false">AIzaSyBr95fWlfKnkgo-M3RnuuAGow4X5lyv22I</string>
+    <string name="google_app_id" translatable="false">1:121190927882:android:e39a1a9cfa02ccfcc799f3</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyBr95fWlfKnkgo-M3RnuuAGow4X5lyv22I</string>
+    <string name="google_storage_bucket" translatable="false">decoded-bulwark-274906.appspot.com</string>
+    <string name="project_id" translatable="false">decoded-bulwark-274906</string>
+</resources>
