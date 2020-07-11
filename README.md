@@ -1,4 +1,4 @@
-# Android Social Media Application <img src="/app/src/main/ic_launcher-playstore.png" alt="Android Social Media Application" width="100" align="center"/>
+# Android Social Media Application <img src="/app/src/main/ic_launcher-playstore.png" alt="Android Social Media Application" width="80" align="center"/>
 
 > ***Final year project of B.tech in C.S.E. In way of creating this project developer.android, GitHub, stackoverflow was our guide.***
  
