@@ -3,7 +3,7 @@
  
 ## System Installation Steps
 - Download our project from [Here](https://github.com/DrkXo/Android-Social-Media-Application).
-- Download Android Studio (https://developer.android.com/studio).
+- Download [Android Studio](https://developer.android.com/studio).
 - Open the project in Android Studio.
 - You need google-services.json. Create a Firebase project in the Firebase console
 (https://console.firebase.google.com), if you don't already have one. Go to your
