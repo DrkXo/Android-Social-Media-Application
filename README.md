@@ -26,7 +26,7 @@ page Settings page of the Firebase console. See Authenticating Your Client for
 details on how to get your app's SHA-1 fingerprint.
 - Deploy Firebase functions in your app from Tools-Firebase window. It will
 generate necessary resource file in your res(generated)/values/ .
-- Get your Google Map API key from here (https://console.cloud.google.com). Then
+- Get your [Google Map API](https://console.cloud.google.com). Then
 navigate to AndroidManifest and paste your API key there.
 - Deploy Firebase functions in Android Studio Project –> Tools –> Firebase.
 - After you have successfully connected you application with Google Firebase and
