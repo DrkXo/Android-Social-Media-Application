@@ -5,8 +5,7 @@
 - Download our project from [Here](https://github.com/DrkXo/Android-Social-Media-Application).
 - Download [Android Studio](https://developer.android.com/studio).
 - Open the project in Android Studio.
-- You need google-services.json. Create a Firebase project in the Firebase console
-(https://console.firebase.google.com), if you don't already have one. Go to your
+- You need google-services.json. Create a Firebase project in the [Firebase console](https://console.firebase.google.com), if you don't already have one. Go to your
 project and click ‘Add Firebase to your Android app’. Follow the setup steps. At
 the end, you'll download a google-services.json file which you should add to your
 project folder /app/ .
