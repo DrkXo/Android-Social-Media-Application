@@ -4,7 +4,7 @@
             "outputFile": "D:\\social-network-app-master\\app\\build\\intermediates\\incremental\\mergeReleaseResources\\merged.dir\\values-v16\\values-v16.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\chaya\\.gradle\\caches\\transforms-2\\files-2.1\\ed4e90ad67f10be1e392af2a70302dff\\support-compat-27.1.1\\res\\values-v16\\values-v16.xml",
+                    "source": "C:\\Users\\chaya\\.gradle\\caches\\transforms-2\\files-2.1\\138a2f8bf6b73985e36ff43b714422d0\\core-1.0.0\\res\\values-v16\\values-v16.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",
@@ -14,7 +14,7 @@
                     }
                 },
                 {
-                    "source": "C:\\Users\\chaya\\.gradle\\caches\\transforms-2\\files-2.1\\f01ca3c102d0e57069ef616479c4b96f\\appcompat-v7-27.1.1\\res\\values-v16\\values-v16.xml",
+                    "source": "C:\\Users\\chaya\\.gradle\\caches\\transforms-2\\files-2.1\\9cd7b8dbc1332a49b1af846b6d62374f\\appcompat-1.0.0\\res\\values-v16\\values-v16.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",

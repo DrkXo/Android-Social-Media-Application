@@ -21,6 +21,7 @@ import com.google.firebase.database.FirebaseDatabase;
 import com.google.firebase.database.Query;
 import com.google.firebase.database.ValueEventListener;
 
+
 public class MainPresenter implements MainContract.Presenter{
     final MainContract.View mView;
     final FirebaseAuth mFirebaseAuth;
@@ -55,22 +56,25 @@ public class MainPresenter implements MainContract.Presenter{
                         )
                 {
                     @Override
-                    protected void populateViewHolder(PostsViewHolder viewHolder, Posts model, int position)
-                    {
+                    protected void populateViewHolder(PostsViewHolder viewHolder, Posts model, int position) {
                         final String PostKey = getRef(position).getKey();
 
                         viewHolder.setFullName(model.getFullname());
                         viewHolder.setTime(model.getTime());
                         viewHolder.setDate(model.getDate());
-                        viewHolder.setDescription(model.getDescription());
+                        viewHolder.setDescription(model.getDescription(), mContext);
                         viewHolder.setPostimage(model.getPostimage());
+                        viewHolder.setCat(model.getGenre());
+                        viewHolder.set_Event_Date(model.get_Event_Date());
+                        viewHolder.set_Event_Year(model.get_Event_Year());
+                        viewHolder.set_Event_Month(model.get_Event_Month());
+                        viewHolder.displaymap(PostKey);
                         viewHolder.setLikeButtonStatus(PostKey);
                         viewHolder.displaysCommentsNumber(PostKey);
-
                         viewHolder.mView.setOnClickListener(new View.OnClickListener() {
                             @Override
                             public void onClick(View v) {
-                                Intent clickPostIntent =  new Intent(mContext, ClickPostActivity.class);
+                                Intent clickPostIntent = new Intent(mContext, ClickPostActivity.class);
                                 clickPostIntent.putExtra("PostKey", PostKey);
                                 mContext.startActivity(clickPostIntent);
                             }
@@ -83,6 +87,7 @@ public class MainPresenter implements MainContract.Presenter{
                         else{
                             viewHolder.setDefaultProfileimage();
                         }
+
 
                         viewHolder.likePostButton.setOnClickListener(new View.OnClickListener() {
                             @Override
@@ -138,6 +143,7 @@ public class MainPresenter implements MainContract.Presenter{
                                 });
                             }
                         });
+
 
                         viewHolder.commentPostButton.setOnClickListener(new View.OnClickListener() {
                             @Override

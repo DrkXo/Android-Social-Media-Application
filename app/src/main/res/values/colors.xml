@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <color name="colorPrimary">#388E3C</color>
-    <color name="colorPrimaryDark">#67c415</color>
-    <color name="colorAccent">#388E3C</color>
+    <color name="colorPrimary">#9E9E9E</color>
+    <color name="colorPrimaryDark">#616161</color>
+    <color name="colorAccent">#9E9E9E</color>
     <color name="colorProfile">#3B4041</color>
     <color name="colorDark">#dddfdf</color>
     <color name="sendercolor">#5193ff</color>
-    <color name="receivercolor">#1aec3d</color>
+    <color name="receivercolor">#004D40</color>
 </resources>

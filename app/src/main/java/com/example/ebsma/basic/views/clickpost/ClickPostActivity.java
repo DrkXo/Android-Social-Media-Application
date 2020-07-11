@@ -4,12 +4,7 @@ import android.annotation.SuppressLint;
 import android.app.Dialog;
 import android.content.DialogInterface;
 import android.content.Intent;
-import android.support.annotation.NonNull;
-import android.support.v7.app.AlertDialog;
-import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
-import android.support.v7.widget.LinearLayoutManager;
-import android.support.v7.widget.RecyclerView;
 import android.text.TextUtils;
 import android.view.View;
 import android.view.WindowManager;
@@ -18,6 +13,12 @@ import android.widget.ImageButton;
 import android.widget.ImageView;
 import android.widget.TextView;
 import android.widget.Toast;
+
+import androidx.annotation.NonNull;
+import androidx.appcompat.app.AlertDialog;
+import androidx.appcompat.app.AppCompatActivity;
+import androidx.recyclerview.widget.LinearLayoutManager;
+import androidx.recyclerview.widget.RecyclerView;
 
 import com.example.ebsma.basic.R;
 import com.example.ebsma.basic.models.comment.Comments;
@@ -54,7 +55,7 @@ public class ClickPostActivity extends AppCompatActivity {
 
     // Post
     ImageView PostImage;
-    TextView PostDescription;
+    TextView PostDescription, clk_cat;
     ImageButton clickLikeButton, clickCommentButton;
     int countLikes;
     TextView displayNoOfLikes;
@@ -68,7 +69,7 @@ public class ClickPostActivity extends AppCompatActivity {
     DatabaseReference ClickPostRef, CommentsRef, UsersRef, LikeRef;
     FirebaseAuth mAuth;
 
-    String PostKey, currentUserID, description;
+    String PostKey, currentUserID, description, genre;
     Boolean likeChecker = false;
 
     @SuppressLint("CutPasteId")
@@ -92,6 +93,7 @@ public class ClickPostActivity extends AppCompatActivity {
     }
 
     private void initViews() {
+        clk_cat = findViewById(R.id.clk_dis_cat);
         PostImage = findViewById(R.id.click_post_image);
         PostDescription = findViewById(R.id.click_post_description);
         clickLikeButton = findViewById(R.id.click_post_like_button);
@@ -176,6 +178,7 @@ public class ClickPostActivity extends AppCompatActivity {
             @Override
             public void onDataChange(DataSnapshot dataSnapshot) {
                 if (dataSnapshot.exists()){
+                    genre = dataSnapshot.child("genre").getValue().toString();
                     description = dataSnapshot.child("description").getValue().toString();
                     String image = dataSnapshot.child("postimage").getValue().toString();
                     String databaseUserID = dataSnapshot.child("uid").getValue().toString();
@@ -185,6 +188,7 @@ public class ClickPostActivity extends AppCompatActivity {
                     String time = dataSnapshot.child("time").getValue().toString();
 
                     PostDescription.setText(description);
+                    clk_cat.setText("#" + genre);
                     Picasso.get().load(image).into(PostImage);
                     Picasso.get().load(profileImage).placeholder(R.drawable.profile).into(userProfileImage);
                     UserName.setText(userName);

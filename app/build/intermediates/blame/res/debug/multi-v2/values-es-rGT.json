@@ -4,7 +4,7 @@
             "outputFile": "D:\\social-network-app-master\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-es-rGT\\values-es-rGT.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\chaya\\.gradle\\caches\\transforms-2\\files-2.1\\9e88dbef738b1be1d7950d5fac9e4fea\\android-image-cropper-2.7.0\\res\\values-es-rGT\\values-es-rGT.xml",
+                    "source": "C:\\Users\\chaya\\.gradle\\caches\\transforms-2\\files-2.1\\2f8148a1908eb53b0f608090ed8ac913\\jetified-android-image-cropper-2.7.0\\res\\values-es-rGT\\values-es-rGT.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,7,8,9,10",
                         "startColumns": "4,4,4,4,4,4,4,4,4",

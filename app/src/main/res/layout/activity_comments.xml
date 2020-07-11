@@ -1,28 +1,28 @@
 <?xml version="1.0" encoding="utf-8"?>
 <RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
-    xmlns:app="http://schemas.android.com/apk/res-auto"
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     tools:context=".views.comment.CommentsActivity"
-    android:background="#FAFAFA">
+    android:background="#001B5E20">
 
     <TextView
         android:id="@+id/comments_text_head"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:text="Comments:"
-        android:layout_margin="5dp"
+        android:layout_margin="50dp"
         android:textStyle="bold"
         android:textSize="24sp"
+        android:textAlignment="center"
         android:textColor="@android:color/black"/>
 
-    <android.support.v7.widget.RecyclerView
+    <androidx.recyclerview.widget.RecyclerView
         android:layout_width="match_parent"
         android:layout_height="match_parent"
         android:layout_below="@id/comments_text_head"
         android:layout_margin="5dp"
-        android:id="@+id/comment_list"/>
+        android:id="@+id/comment_list" />
 
     <EditText
         android:id="@+id/comment_input"

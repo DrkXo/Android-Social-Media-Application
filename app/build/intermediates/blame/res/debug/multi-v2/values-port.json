@@ -4,7 +4,7 @@
             "outputFile": "D:\\social-network-app-master\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-port\\values-port.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\chaya\\.gradle\\caches\\transforms-2\\files-2.1\\f01ca3c102d0e57069ef616479c4b96f\\appcompat-v7-27.1.1\\res\\values-port\\values-port.xml",
+                    "source": "C:\\Users\\chaya\\.gradle\\caches\\transforms-2\\files-2.1\\9cd7b8dbc1332a49b1af846b6d62374f\\appcompat-1.0.0\\res\\values-port\\values-port.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",

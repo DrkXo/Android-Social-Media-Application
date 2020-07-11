@@ -3,8 +3,9 @@ package com.example.ebsma.basic.presenters.profile;
 import android.annotation.SuppressLint;
 import android.content.Context;
 import android.content.Intent;
-import android.support.annotation.NonNull;
 import android.view.View;
+
+import androidx.annotation.NonNull;
 
 import com.example.ebsma.basic.R;
 import com.example.ebsma.basic.contracts.ProfileContract;
@@ -167,7 +168,7 @@ public class ProfilePresenter implements ProfileContract.Presenter {
                         viewHolder.setFullName(model.getFullname());
                         viewHolder.setTime(model.getTime());
                         viewHolder.setDate(model.getDate());
-                        viewHolder.setDescription(model.getDescription());
+                        viewHolder.setDescription(model.getDescription(), mContext);
                         viewHolder.setPostimage(model.getPostimage());
                         viewHolder.setLikeButtonStatus(PostKey);
                         viewHolder.displaysCommentsNumber(PostKey);

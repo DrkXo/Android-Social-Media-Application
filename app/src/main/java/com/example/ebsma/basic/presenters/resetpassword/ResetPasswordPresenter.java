@@ -1,9 +1,10 @@
 package com.example.ebsma.basic.presenters.resetpassword;
 
 import android.content.Context;
-import android.support.annotation.NonNull;
 import android.text.TextUtils;
 import android.widget.Toast;
+
+import androidx.annotation.NonNull;
 
 import com.example.ebsma.basic.contracts.ResetPasswordContract;
 import com.google.android.gms.tasks.OnCompleteListener;

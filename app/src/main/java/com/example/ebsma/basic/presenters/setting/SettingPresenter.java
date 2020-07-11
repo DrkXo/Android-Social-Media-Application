@@ -3,9 +3,10 @@ package com.example.ebsma.basic.presenters.setting;
 import android.content.Context;
 import android.content.Intent;
 import android.net.Uri;
-import android.support.annotation.NonNull;
 import android.text.TextUtils;
 import android.widget.Toast;
+
+import androidx.annotation.NonNull;
 
 import com.example.ebsma.basic.contracts.SettingContract;
 import com.example.ebsma.basic.views.setting.SettingsActivity;

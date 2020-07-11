@@ -13,7 +13,7 @@
         android:layout_height="150dp"
         android:layout_alignParentTop="true"
         android:layout_centerHorizontal="true"
-        android:layout_marginTop="10dp"
+        android:layout_marginTop="80dp"
         app:srcCompat="@drawable/logo" />
 
     <EditText
@@ -21,8 +21,7 @@
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:layout_below="@id/login_icon"
-        android:layout_marginTop="5dp"
-        android:background="@drawable/inputs"
+        android:layout_marginTop="100dp"
         android:drawableLeft="@drawable/email"
         android:ems="10"
         android:hint="Email..."
@@ -37,7 +36,6 @@
         android:layout_height="wrap_content"
         android:layout_below="@id/login_email"
         android:layout_marginTop="10dp"
-        android:background="@drawable/inputs"
         android:drawableLeft="@drawable/password"
         android:ems="10"
         android:hint="Password"
@@ -48,7 +46,8 @@
 
     <Button
         android:id="@+id/login_button"
-        android:layout_width="match_parent"
+        android:layout_width="300dp"
+        android:layout_centerInParent="true"
         android:layout_height="wrap_content"
         android:layout_below="@id/login_password"
         android:layout_marginTop="10dp"
@@ -68,7 +67,7 @@
         android:layout_marginTop="10dp"
         android:text="Don't have an account, Need New Account?"
         android:textAlignment="center"
-        android:textColor="@android:color/holo_blue_dark"
+        android:textColor="@color/colorPrimaryDark"
         android:textSize="18sp"
         android:textStyle="bold" />
 
@@ -80,6 +79,7 @@
         android:layout_marginTop="10dp"
         android:text="Or login with"
         android:textAlignment="center"
+        android:textColor="@color/colorPrimaryDark"
         android:textSize="15sp"
         android:textStyle="bold" />
 
@@ -93,16 +93,16 @@
 
         <ImageView
             android:id="@+id/facebook_sigin_button"
-            android:layout_width="70dp"
-            android:layout_height="70dp"
+            android:layout_width="50dp"
+            android:layout_height="50dp"
             android:layout_marginLeft="23dp"
             android:layout_marginTop="10dp"
             android:src="@drawable/facebook" />
 
         <ImageView
             android:id="@+id/google_signin_button"
-            android:layout_width="70dp"
-            android:layout_height="70dp"
+            android:layout_width="50dp"
+            android:layout_height="50dp"
             android:layout_marginLeft="35dp"
             android:layout_marginRight="25dp"
             android:layout_marginTop="10dp"
@@ -110,8 +110,8 @@
 
         <ImageView
             android:id="@+id/twitter_sigin_button"
-            android:layout_width="95dp"
-            android:layout_height="95dp"
+            android:layout_width="65dp"
+            android:layout_height="65dp"
             android:layout_marginRight="5dp"
             android:src="@drawable/twitter" />
 
@@ -123,6 +123,7 @@
         android:layout_alignParentStart="true"
         android:layout_below="@id/linear_layout_diffrent_sigin"
         android:text="Forget password?"
+        android:textColor="@color/colorPrimaryDark"
         android:textAlignment="center"
         android:textStyle="bold"/>
 

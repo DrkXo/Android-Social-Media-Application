@@ -2,10 +2,12 @@ package com.example.ebsma.basic.presenters.post;
 
 import android.content.Context;
 import android.graphics.Bitmap;
-import android.support.annotation.NonNull;
 import android.text.TextUtils;
 import android.widget.EditText;
+import android.widget.Spinner;
 import android.widget.Toast;
+
+import androidx.annotation.NonNull;
 
 import com.example.ebsma.basic.contracts.PostContract;
 import com.google.android.gms.tasks.OnCompleteListener;
@@ -35,9 +37,11 @@ public class PostPresenter implements PostContract.Presenter {
     StorageReference PostImageRef;
     DatabaseReference UsersRef, PostRef;
     FirebaseAuth mAuth;
-
+    double latitude;
+    double longitude;
+    int mYear, mDay, mMonth;
     String saveCurrentTime, saveCurrentDate, postRandomName, downloadURL, current_user_id;
-    String description;
+    String description, cat;
 
     String errorMessage;
 
@@ -54,16 +58,22 @@ public class PostPresenter implements PostContract.Presenter {
 
 
     @Override
-    public void validatePostInfo(EditText PostDescription, Bitmap BitMapPostImage) {
+    public void validatePostInfo(EditText PostDescription, Bitmap BitMapPostImage, Spinner spinner, double longitude,
+                                 double latitude, int mYear, int mDay, int mMonth) {
         description = PostDescription.getText().toString();
+        cat = spinner.getSelectedItem().toString();//cat stands for category
+        this.latitude = latitude;
+        this.longitude = longitude;
 
-        if (BitMapPostImage == null){
+        this.mDay = mDay;
+        this.mMonth = mMonth;
+        this.mYear = mYear;
+
+        if (BitMapPostImage == null) {
             Toast.makeText(mContext, "Please select post image", Toast.LENGTH_SHORT).show();
-        }
-        else if (TextUtils.isEmpty(description)){
+        } else if (TextUtils.isEmpty(description)) {
             Toast.makeText(mContext, "Please say something about your image", Toast.LENGTH_SHORT).show();
-        }
-        else{
+        } else {
 
             mView.showLoadingBar("Updating your post", "Please wait...");
 
@@ -141,13 +151,19 @@ public class PostPresenter implements PostContract.Presenter {
         UsersRef.child(current_user_id).addValueEventListener(new ValueEventListener() {
             @Override
             public void onDataChange(DataSnapshot dataSnapshot) {
-                if (dataSnapshot.exists()){
+                if (dataSnapshot.exists()) {
                     String userFullName = dataSnapshot.child("fullname").getValue().toString();
                     String userProfileImage = dataSnapshot.child("profileimage").getValue().toString();
 
                     HashMap postsMap = new HashMap();
+                    postsMap.put("latitude", latitude);
+                    postsMap.put("longitude", longitude);
                     postsMap.put("uid", current_user_id);
                     postsMap.put("date", saveCurrentDate);
+                    postsMap.put("genre", cat);
+                    postsMap.put("Event_Date", mDay);
+                    postsMap.put("Event_Month", mMonth);
+                    postsMap.put("Event_Year", mYear);
                     postsMap.put("time", saveCurrentTime);
                     postsMap.put("description", description);
                     postsMap.put("postimage", downloadURL);

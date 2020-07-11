@@ -1,9 +1,10 @@
 package com.example.ebsma.basic.presenters.comment;
 
 import android.content.Context;
-import android.support.annotation.NonNull;
 import android.text.TextUtils;
 import android.widget.Toast;
+
+import androidx.annotation.NonNull;
 
 import com.example.ebsma.basic.R;
 import com.example.ebsma.basic.contracts.CommentContract;

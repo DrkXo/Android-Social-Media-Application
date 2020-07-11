@@ -16,23 +16,31 @@
     <item
         android:id="@+id/nav_home"
         android:title="Home"
-        android:icon="@drawable/home"/>
+        android:icon="@drawable/home" />
     <item
         android:id="@+id/nav_messages"
         android:title="Messages"
-        android:icon="@drawable/messages"/>
+        android:icon="@drawable/messages" />
     <item
         android:id="@+id/nav_friends"
         android:title="Friends"
-        android:icon="@drawable/friends"/>
+        android:icon="@drawable/friends" />
+    <item
+        android:id="@+id/live_chat_id"
+        android:icon="@drawable/msg2"
+        android:title="Live Discussion" />
     <item
         android:id="@+id/nav_setting"
         android:title="Setting"
-        android:icon="@drawable/settings"/>
+        android:icon="@drawable/settings" />
+    <item
+        android:id="@+id/nav_del"
+        android:icon="@drawable/username"
+        android:title="Delete Account" />
     <item
         android:id="@+id/nav_logout"
         android:title="Log Out"
-        android:icon="@drawable/logout"/>
+        android:icon="@drawable/logout" />
 
 
 </menu>

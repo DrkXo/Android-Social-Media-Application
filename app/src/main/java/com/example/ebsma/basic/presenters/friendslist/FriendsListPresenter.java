@@ -2,8 +2,9 @@ package com.example.ebsma.basic.presenters.friendslist;
 
 import android.content.Context;
 import android.content.DialogInterface;
-import android.support.v7.app.AlertDialog;
 import android.view.View;
+
+import androidx.appcompat.app.AlertDialog;
 
 import com.example.ebsma.basic.R;
 import com.example.ebsma.basic.contracts.FriendsListContract;

@@ -4,6 +4,218 @@
         "source": "D:\\social-network-app-master\\app\\src\\main\\res\\layout\\activity_settings.xml"
     },
     {
+        "merged": "D:\\social-network-app-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable_likeoriginal.png.flat",
+        "source": "D:\\social-network-app-master\\app\\src\\main\\res\\drawable\\likeoriginal.png"
+    },
+    {
+        "merged": "D:\\social-network-app-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable_friends.png.flat",
+        "source": "D:\\social-network-app-master\\app\\src\\main\\res\\drawable\\friends.png"
+    },
+    {
+        "merged": "D:\\social-network-app-master\\app\\build\\intermediates\\res\\merged\\debug\\layout_spinner_item.xml.flat",
+        "source": "D:\\social-network-app-master\\app\\src\\main\\res\\layout\\spinner_item.xml"
+    },
+    {
+        "merged": "D:\\social-network-app-master\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "D:\\social-network-app-master\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "D:\\social-network-app-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable_search.png.flat",
+        "source": "D:\\social-network-app-master\\app\\src\\main\\res\\drawable\\search.png"
+    },
+    {
+        "merged": "D:\\social-network-app-master\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher_foreground.png.flat",
+        "source": "D:\\social-network-app-master\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "D:\\social-network-app-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_launcher_background.xml.flat",
+        "source": "D:\\social-network-app-master\\app\\src\\main\\res\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "D:\\social-network-app-master\\app\\build\\intermediates\\res\\merged\\debug\\anim_slide_out_left.xml.flat",
+        "source": "D:\\social-network-app-master\\app\\src\\main\\res\\anim\\slide_out_left.xml"
+    },
+    {
+        "merged": "D:\\social-network-app-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable_logout.png.flat",
+        "source": "D:\\social-network-app-master\\app\\src\\main\\res\\drawable\\logout.png"
+    },
+    {
+        "merged": "D:\\social-network-app-master\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher.png.flat",
+        "source": "D:\\social-network-app-master\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\social-network-app-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable_cat_border.xml.flat",
+        "source": "D:\\social-network-app-master\\app\\src\\main\\res\\drawable\\cat_border.xml"
+    },
+    {
+        "merged": "D:\\social-network-app-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable_settings.png.flat",
+        "source": "D:\\social-network-app-master\\app\\src\\main\\res\\drawable\\settings.png"
+    },
+    {
+        "merged": "D:\\social-network-app-master\\app\\build\\intermediates\\res\\merged\\debug\\layout_all_users_display_display.xml.flat",
+        "source": "D:\\social-network-app-master\\app\\src\\main\\res\\layout\\all_users_display_display.xml"
+    },
+    {
+        "merged": "D:\\social-network-app-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable_post_comment.png.flat",
+        "source": "D:\\social-network-app-master\\app\\src\\main\\res\\drawable\\post_comment.png"
+    },
+    {
+        "merged": "D:\\social-network-app-master\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_post.xml.flat",
+        "source": "D:\\social-network-app-master\\app\\src\\main\\res\\layout\\activity_post.xml"
+    },
+    {
+        "merged": "D:\\social-network-app-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable_confirm.png.flat",
+        "source": "D:\\social-network-app-master\\app\\src\\main\\res\\drawable\\confirm.png"
+    },
+    {
+        "merged": "D:\\social-network-app-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable_msg.png.flat",
+        "source": "D:\\social-network-app-master\\app\\src\\main\\res\\drawable\\msg.png"
+    },
+    {
+        "merged": "D:\\social-network-app-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable_logo.png.flat",
+        "source": "D:\\social-network-app-master\\app\\src\\main\\res\\drawable\\logo.png"
+    },
+    {
+        "merged": "D:\\social-network-app-master\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "D:\\social-network-app-master\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "D:\\social-network-app-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_launcher.png.flat",
+        "source": "D:\\social-network-app-master\\app\\src\\main\\res\\drawable\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\social-network-app-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable_profile.png.flat",
+        "source": "D:\\social-network-app-master\\app\\src\\main\\res\\drawable\\profile.png"
+    },
+    {
+        "merged": "D:\\social-network-app-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable_edit_button.png.flat",
+        "source": "D:\\social-network-app-master\\app\\src\\main\\res\\drawable\\edit_button.png"
+    },
+    {
+        "merged": "D:\\social-network-app-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable_password.png.flat",
+        "source": "D:\\social-network-app-master\\app\\src\\main\\res\\drawable\\password.png"
+    },
+    {
+        "merged": "D:\\social-network-app-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable_add2.png.flat",
+        "source": "D:\\social-network-app-master\\app\\src\\main\\res\\drawable\\add2.png"
+    },
+    {
+        "merged": "D:\\social-network-app-master\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "D:\\social-network-app-master\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "D:\\social-network-app-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable_email.png.flat",
+        "source": "D:\\social-network-app-master\\app\\src\\main\\res\\drawable\\email.png"
+    },
+    {
+        "merged": "D:\\social-network-app-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable_sender_message_text_background.xml.flat",
+        "source": "D:\\social-network-app-master\\app\\src\\main\\res\\drawable\\sender_message_text_background.xml"
+    },
+    {
+        "merged": "D:\\social-network-app-master\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_reset_password.xml.flat",
+        "source": "D:\\social-network-app-master\\app\\src\\main\\res\\layout\\activity_reset_password.xml"
+    },
+    {
+        "merged": "D:\\social-network-app-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable_register.png.flat",
+        "source": "D:\\social-network-app-master\\app\\src\\main\\res\\drawable\\register.png"
+    },
+    {
+        "merged": "D:\\social-network-app-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable_location.png.flat",
+        "source": "D:\\social-network-app-master\\app\\src\\main\\res\\drawable\\location.png"
+    },
+    {
+        "merged": "D:\\social-network-app-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable_paper.png.flat",
+        "source": "D:\\social-network-app-master\\app\\src\\main\\res\\drawable\\paper.png"
+    },
+    {
+        "merged": "D:\\social-network-app-master\\app\\build\\intermediates\\res\\merged\\debug\\anim_slide_in_right.xml.flat",
+        "source": "D:\\social-network-app-master\\app\\src\\main\\res\\anim\\slide_in_right.xml"
+    },
+    {
+        "merged": "D:\\social-network-app-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable_receiver_message_text_background.xml.flat",
+        "source": "D:\\social-network-app-master\\app\\src\\main\\res\\drawable\\receiver_message_text_background.xml"
+    },
+    {
+        "merged": "D:\\social-network-app-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_ic_launcher_foreground.xml.flat",
+        "source": "D:\\social-network-app-master\\app\\src\\main\\res\\drawable-v24\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "D:\\social-network-app-master\\app\\build\\intermediates\\res\\merged\\debug\\layout_navigation_header.xml.flat",
+        "source": "D:\\social-network-app-master\\app\\src\\main\\res\\layout\\navigation_header.xml"
+    },
+    {
+        "merged": "D:\\social-network-app-master\\app\\build\\intermediates\\res\\merged\\debug\\layout_message_layout_of_user.xml.flat",
+        "source": "D:\\social-network-app-master\\app\\src\\main\\res\\layout\\message_layout_of_user.xml"
+    },
+    {
+        "merged": "D:\\social-network-app-master\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_click_post.xml.flat",
+        "source": "D:\\social-network-app-master\\app\\src\\main\\res\\layout\\activity_click_post.xml"
+    },
+    {
+        "merged": "D:\\social-network-app-master\\app\\build\\intermediates\\res\\merged\\debug\\raw_style_json.json.flat",
+        "source": "D:\\social-network-app-master\\app\\src\\main\\res\\raw\\style_json.json"
+    },
+    {
+        "merged": "D:\\social-network-app-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable_login.png.flat",
+        "source": "D:\\social-network-app-master\\app\\src\\main\\res\\drawable\\login.png"
+    },
+    {
+        "merged": "D:\\social-network-app-master\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_splash.xml.flat",
+        "source": "D:\\social-network-app-master\\app\\src\\main\\res\\layout\\activity_splash.xml"
+    },
+    {
+        "merged": "D:\\social-network-app-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable_name.png.flat",
+        "source": "D:\\social-network-app-master\\app\\src\\main\\res\\drawable\\name.png"
+    },
+    {
+        "merged": "D:\\social-network-app-master\\app\\build\\intermediates\\res\\merged\\debug\\layout_all_post_layout.xml.flat",
+        "source": "D:\\social-network-app-master\\app\\src\\main\\res\\layout\\all_post_layout.xml"
+    },
+    {
+        "merged": "D:\\social-network-app-master\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_main.xml.flat",
+        "source": "D:\\social-network-app-master\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "D:\\social-network-app-master\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "D:\\social-network-app-master\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "D:\\social-network-app-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable_like.png.flat",
+        "source": "D:\\social-network-app-master\\app\\src\\main\\res\\drawable\\like.png"
+    },
+    {
+        "merged": "D:\\social-network-app-master\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "D:\\social-network-app-master\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\social-network-app-master\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher_foreground.png.flat",
+        "source": "D:\\social-network-app-master\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "D:\\social-network-app-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable_locationpin1.png.flat",
+        "source": "D:\\social-network-app-master\\app\\src\\main\\res\\drawable\\locationpin1.png"
+    },
+    {
+        "merged": "D:\\social-network-app-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable_add_post_high.png.flat",
+        "source": "D:\\social-network-app-master\\app\\src\\main\\res\\drawable\\add_post_high.png"
+    },
+    {
+        "merged": "D:\\social-network-app-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable_spinner_border.xml.flat",
+        "source": "D:\\social-network-app-master\\app\\src\\main\\res\\drawable\\spinner_border.xml"
+    },
+    {
+        "merged": "D:\\social-network-app-master\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_friends_list.xml.flat",
+        "source": "D:\\social-network-app-master\\app\\src\\main\\res\\layout\\activity_friends_list.xml"
+    },
+    {
+        "merged": "D:\\social-network-app-master\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_profile.xml.flat",
+        "source": "D:\\social-network-app-master\\app\\src\\main\\res\\layout\\activity_profile.xml"
+    },
+    {
+        "merged": "D:\\social-network-app-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable_profile_button.png.flat",
+        "source": "D:\\social-network-app-master\\app\\src\\main\\res\\drawable\\profile_button.png"
+    },
+    {
         "merged": "D:\\social-network-app-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable_facebook.png.flat",
         "source": "D:\\social-network-app-master\\app\\src\\main\\res\\drawable\\facebook.png"
     },
@@ -20,24 +232,12 @@
         "source": "D:\\social-network-app-master\\app\\src\\main\\res\\drawable\\button.xml"
     },
     {
-        "merged": "D:\\social-network-app-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable_friends.png.flat",
-        "source": "D:\\social-network-app-master\\app\\src\\main\\res\\drawable\\friends.png"
-    },
-    {
-        "merged": "D:\\social-network-app-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable_inputs.xml.flat",
-        "source": "D:\\social-network-app-master\\app\\src\\main\\res\\drawable\\inputs.xml"
-    },
-    {
         "merged": "D:\\social-network-app-master\\app\\build\\intermediates\\res\\merged\\debug\\menu_navigation_menu.xml.flat",
         "source": "D:\\social-network-app-master\\app\\src\\main\\res\\menu\\navigation_menu.xml"
     },
     {
-        "merged": "D:\\social-network-app-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable_search.png.flat",
-        "source": "D:\\social-network-app-master\\app\\src\\main\\res\\drawable\\search.png"
-    },
-    {
-        "merged": "D:\\social-network-app-master\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher_round.png.flat",
-        "source": "D:\\social-network-app-master\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_round.png"
+        "merged": "D:\\social-network-app-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable_inputs.xml.flat",
+        "source": "D:\\social-network-app-master\\app\\src\\main\\res\\drawable\\inputs.xml"
     },
     {
         "merged": "D:\\social-network-app-master\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher_round.png.flat",
@@ -48,24 +248,24 @@
         "source": "D:\\social-network-app-master\\app\\src\\main\\res\\drawable\\ic_send_message.png"
     },
     {
-        "merged": "D:\\social-network-app-master\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher_foreground.png.flat",
-        "source": "D:\\social-network-app-master\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_foreground.png"
-    },
-    {
         "merged": "D:\\social-network-app-master\\app\\build\\intermediates\\res\\merged\\debug\\layout_message_layout_of_users.xml.flat",
         "source": "D:\\social-network-app-master\\app\\src\\main\\res\\layout\\message_layout_of_users.xml"
     },
     {
-        "merged": "D:\\social-network-app-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_launcher_background.xml.flat",
-        "source": "D:\\social-network-app-master\\app\\src\\main\\res\\drawable\\ic_launcher_background.xml"
-    },
-    {
-        "merged": "D:\\social-network-app-master\\app\\build\\intermediates\\res\\merged\\debug\\anim_slide_out_left.xml.flat",
-        "source": "D:\\social-network-app-master\\app\\src\\main\\res\\anim\\slide_out_left.xml"
+        "merged": "D:\\social-network-app-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable_dislikepriginal.png.flat",
+        "source": "D:\\social-network-app-master\\app\\src\\main\\res\\drawable\\dislikepriginal.png"
     },
     {
         "merged": "D:\\social-network-app-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable_add.png.flat",
         "source": "D:\\social-network-app-master\\app\\src\\main\\res\\drawable\\add.png"
+    },
+    {
+        "merged": "D:\\social-network-app-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable_locationpin.png.flat",
+        "source": "D:\\social-network-app-master\\app\\src\\main\\res\\drawable\\locationpin.png"
+    },
+    {
+        "merged": "D:\\social-network-app-master\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_chat_room_start.xml.flat",
+        "source": "D:\\social-network-app-master\\app\\src\\main\\res\\layout\\activity_chat_room_start.xml"
     },
     {
         "merged": "D:\\social-network-app-master\\app\\build\\intermediates\\res\\merged\\debug\\anim_slide_in_left.xml.flat",
@@ -80,28 +280,16 @@
         "source": "D:\\social-network-app-master\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_foreground.png"
     },
     {
-        "merged": "D:\\social-network-app-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable_logout.png.flat",
-        "source": "D:\\social-network-app-master\\app\\src\\main\\res\\drawable\\logout.png"
-    },
-    {
-        "merged": "D:\\social-network-app-master\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher.png.flat",
-        "source": "D:\\social-network-app-master\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.png"
-    },
-    {
         "merged": "D:\\social-network-app-master\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher_round.png.flat",
         "source": "D:\\social-network-app-master\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_round.png"
     },
     {
-        "merged": "D:\\social-network-app-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable_settings.png.flat",
-        "source": "D:\\social-network-app-master\\app\\src\\main\\res\\drawable\\settings.png"
+        "merged": "D:\\social-network-app-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable_live.png.flat",
+        "source": "D:\\social-network-app-master\\app\\src\\main\\res\\drawable\\live.png"
     },
     {
-        "merged": "D:\\social-network-app-master\\app\\build\\intermediates\\res\\merged\\debug\\layout_all_users_display_display.xml.flat",
-        "source": "D:\\social-network-app-master\\app\\src\\main\\res\\layout\\all_users_display_display.xml"
-    },
-    {
-        "merged": "D:\\social-network-app-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable_post_comment.png.flat",
-        "source": "D:\\social-network-app-master\\app\\src\\main\\res\\drawable\\post_comment.png"
+        "merged": "D:\\social-network-app-master\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_tips.xml.flat",
+        "source": "D:\\social-network-app-master\\app\\src\\main\\res\\layout\\activity_tips.xml"
     },
     {
         "merged": "D:\\social-network-app-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_select_image.png.flat",
@@ -112,32 +300,28 @@
         "source": "D:\\social-network-app-master\\app\\src\\main\\res\\drawable\\splash.png"
     },
     {
-        "merged": "D:\\social-network-app-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable_sublogo.png.flat",
-        "source": "D:\\social-network-app-master\\app\\src\\main\\res\\drawable\\sublogo.png"
+        "merged": "D:\\social-network-app-master\\app\\build\\intermediates\\res\\merged\\debug\\layout_simple_spinner_dropdown_item.xml.flat",
+        "source": "D:\\social-network-app-master\\app\\src\\main\\res\\layout\\simple_spinner_dropdown_item.xml"
     },
     {
-        "merged": "D:\\social-network-app-master\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_post.xml.flat",
-        "source": "D:\\social-network-app-master\\app\\src\\main\\res\\layout\\activity_post.xml"
+        "merged": "D:\\social-network-app-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable_locationpin2.png.flat",
+        "source": "D:\\social-network-app-master\\app\\src\\main\\res\\drawable\\locationpin2.png"
+    },
+    {
+        "merged": "D:\\social-network-app-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable_sublogo.png.flat",
+        "source": "D:\\social-network-app-master\\app\\src\\main\\res\\drawable\\sublogo.png"
     },
     {
         "merged": "D:\\social-network-app-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable_username.png.flat",
         "source": "D:\\social-network-app-master\\app\\src\\main\\res\\drawable\\username.png"
     },
     {
-        "merged": "D:\\social-network-app-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable_post_border.xml.flat",
-        "source": "D:\\social-network-app-master\\app\\src\\main\\res\\drawable\\post_border.xml"
-    },
-    {
-        "merged": "D:\\social-network-app-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable_confirm.png.flat",
-        "source": "D:\\social-network-app-master\\app\\src\\main\\res\\drawable\\confirm.png"
-    },
-    {
         "merged": "D:\\social-network-app-master\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_login.xml.flat",
         "source": "D:\\social-network-app-master\\app\\src\\main\\res\\layout\\activity_login.xml"
     },
     {
-        "merged": "D:\\social-network-app-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable_msg.png.flat",
-        "source": "D:\\social-network-app-master\\app\\src\\main\\res\\drawable\\msg.png"
+        "merged": "D:\\social-network-app-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable_post_border.xml.flat",
+        "source": "D:\\social-network-app-master\\app\\src\\main\\res\\drawable\\post_border.xml"
     },
     {
         "merged": "D:\\social-network-app-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable_find_people.png.flat",
@@ -146,6 +330,10 @@
     {
         "merged": "D:\\social-network-app-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable_comment.png.flat",
         "source": "D:\\social-network-app-master\\app\\src\\main\\res\\drawable\\comment.png"
+    },
+    {
+        "merged": "D:\\social-network-app-master\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_chat_room_main.xml.flat",
+        "source": "D:\\social-network-app-master\\app\\src\\main\\res\\layout\\activity_chat_room_main.xml"
     },
     {
         "merged": "D:\\social-network-app-master\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher.png.flat",
@@ -164,56 +352,40 @@
         "source": "D:\\social-network-app-master\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_round.png"
     },
     {
-        "merged": "D:\\social-network-app-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_launcher.png.flat",
-        "source": "D:\\social-network-app-master\\app\\src\\main\\res\\drawable\\ic_launcher.png"
-    },
-    {
-        "merged": "D:\\social-network-app-master\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
-        "source": "D:\\social-network-app-master\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher_round.xml"
-    },
-    {
-        "merged": "D:\\social-network-app-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable_logo.png.flat",
-        "source": "D:\\social-network-app-master\\app\\src\\main\\res\\drawable\\logo.png"
-    },
-    {
         "merged": "D:\\social-network-app-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable_home.png.flat",
         "source": "D:\\social-network-app-master\\app\\src\\main\\res\\drawable\\home.png"
     },
     {
-        "merged": "D:\\social-network-app-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable_profile.png.flat",
-        "source": "D:\\social-network-app-master\\app\\src\\main\\res\\drawable\\profile.png"
+        "merged": "D:\\social-network-app-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable_tips.png.flat",
+        "source": "D:\\social-network-app-master\\app\\src\\main\\res\\drawable\\tips.png"
     },
     {
         "merged": "D:\\social-network-app-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable_background.xml.flat",
         "source": "D:\\social-network-app-master\\app\\src\\main\\res\\drawable\\background.xml"
     },
     {
-        "merged": "D:\\social-network-app-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable_edit_button.png.flat",
-        "source": "D:\\social-network-app-master\\app\\src\\main\\res\\drawable\\edit_button.png"
+        "merged": "D:\\social-network-app-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable_msg2.png.flat",
+        "source": "D:\\social-network-app-master\\app\\src\\main\\res\\drawable\\msg2.png"
     },
     {
         "merged": "D:\\social-network-app-master\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_chat.xml.flat",
         "source": "D:\\social-network-app-master\\app\\src\\main\\res\\layout\\activity_chat.xml"
     },
     {
-        "merged": "D:\\social-network-app-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable_password.png.flat",
-        "source": "D:\\social-network-app-master\\app\\src\\main\\res\\drawable\\password.png"
-    },
-    {
         "merged": "D:\\social-network-app-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable_header.png.flat",
         "source": "D:\\social-network-app-master\\app\\src\\main\\res\\drawable\\header.png"
     },
     {
-        "merged": "D:\\social-network-app-master\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_launcher.xml.flat",
-        "source": "D:\\social-network-app-master\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher.xml"
+        "merged": "D:\\social-network-app-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable_select_image_2.png.flat",
+        "source": "D:\\social-network-app-master\\app\\src\\main\\res\\drawable\\select_image_2.png"
+    },
+    {
+        "merged": "D:\\social-network-app-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable_image_upload_border.xml.flat",
+        "source": "D:\\social-network-app-master\\app\\src\\main\\res\\drawable\\image_upload_border.xml"
     },
     {
         "merged": "D:\\social-network-app-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable_country.png.flat",
         "source": "D:\\social-network-app-master\\app\\src\\main\\res\\drawable\\country.png"
-    },
-    {
-        "merged": "D:\\social-network-app-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable_email.png.flat",
-        "source": "D:\\social-network-app-master\\app\\src\\main\\res\\drawable\\email.png"
     },
     {
         "merged": "D:\\social-network-app-master\\app\\build\\intermediates\\res\\merged\\debug\\layout_chat_custom_bar.xml.flat",
@@ -224,60 +396,32 @@
         "source": "D:\\social-network-app-master\\app\\src\\main\\res\\drawable\\select_image.png"
     },
     {
-        "merged": "D:\\social-network-app-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable_sender_message_text_background.xml.flat",
-        "source": "D:\\social-network-app-master\\app\\src\\main\\res\\drawable\\sender_message_text_background.xml"
-    },
-    {
-        "merged": "D:\\social-network-app-master\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_reset_password.xml.flat",
-        "source": "D:\\social-network-app-master\\app\\src\\main\\res\\layout\\activity_reset_password.xml"
-    },
-    {
-        "merged": "D:\\social-network-app-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable_register.png.flat",
-        "source": "D:\\social-network-app-master\\app\\src\\main\\res\\drawable\\register.png"
-    },
-    {
-        "merged": "D:\\social-network-app-master\\app\\build\\intermediates\\res\\merged\\debug\\layout_all_comments_layout.xml.flat",
-        "source": "D:\\social-network-app-master\\app\\src\\main\\res\\layout\\all_comments_layout.xml"
-    },
-    {
-        "merged": "D:\\social-network-app-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable_receiver_message_text_background.xml.flat",
-        "source": "D:\\social-network-app-master\\app\\src\\main\\res\\drawable\\receiver_message_text_background.xml"
-    },
-    {
-        "merged": "D:\\social-network-app-master\\app\\build\\intermediates\\res\\merged\\debug\\anim_slide_in_right.xml.flat",
-        "source": "D:\\social-network-app-master\\app\\src\\main\\res\\anim\\slide_in_right.xml"
+        "merged": "D:\\social-network-app-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable_map_border.xml.flat",
+        "source": "D:\\social-network-app-master\\app\\src\\main\\res\\drawable\\map_border.xml"
     },
     {
         "merged": "D:\\social-network-app-master\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher_foreground.png.flat",
         "source": "D:\\social-network-app-master\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_foreground.png"
     },
     {
-        "merged": "D:\\social-network-app-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable_delete_button.png.flat",
-        "source": "D:\\social-network-app-master\\app\\src\\main\\res\\drawable\\delete_button.png"
+        "merged": "D:\\social-network-app-master\\app\\build\\intermediates\\res\\merged\\debug\\layout_all_comments_layout.xml.flat",
+        "source": "D:\\social-network-app-master\\app\\src\\main\\res\\layout\\all_comments_layout.xml"
     },
     {
-        "merged": "D:\\social-network-app-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_ic_launcher_foreground.xml.flat",
-        "source": "D:\\social-network-app-master\\app\\src\\main\\res\\drawable-v24\\ic_launcher_foreground.xml"
+        "merged": "D:\\social-network-app-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable_delete_button.png.flat",
+        "source": "D:\\social-network-app-master\\app\\src\\main\\res\\drawable\\delete_button.png"
     },
     {
         "merged": "D:\\social-network-app-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable_cancel_request_button.xml.flat",
         "source": "D:\\social-network-app-master\\app\\src\\main\\res\\drawable\\cancel_request_button.xml"
     },
     {
-        "merged": "D:\\social-network-app-master\\app\\build\\intermediates\\res\\merged\\debug\\layout_navigation_header.xml.flat",
-        "source": "D:\\social-network-app-master\\app\\src\\main\\res\\layout\\navigation_header.xml"
+        "merged": "D:\\social-network-app-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable_like_border.xml.flat",
+        "source": "D:\\social-network-app-master\\app\\src\\main\\res\\drawable\\like_border.xml"
     },
     {
         "merged": "D:\\social-network-app-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable_find_friend_input.xml.flat",
         "source": "D:\\social-network-app-master\\app\\src\\main\\res\\drawable\\find_friend_input.xml"
-    },
-    {
-        "merged": "D:\\social-network-app-master\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_click_post.xml.flat",
-        "source": "D:\\social-network-app-master\\app\\src\\main\\res\\layout\\activity_click_post.xml"
-    },
-    {
-        "merged": "D:\\social-network-app-master\\app\\build\\intermediates\\res\\merged\\debug\\layout_message_layout_of_user.xml.flat",
-        "source": "D:\\social-network-app-master\\app\\src\\main\\res\\layout\\message_layout_of_user.xml"
     },
     {
         "merged": "D:\\social-network-app-master\\app\\build\\intermediates\\res\\merged\\debug\\layout_app_bar_layout.xml.flat",
@@ -292,28 +436,16 @@
         "source": "D:\\social-network-app-master\\app\\src\\main\\res\\layout\\activity_setup.xml"
     },
     {
-        "merged": "D:\\social-network-app-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable_login.png.flat",
-        "source": "D:\\social-network-app-master\\app\\src\\main\\res\\drawable\\login.png"
-    },
-    {
         "merged": "D:\\social-network-app-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable_profile_icon.png.flat",
         "source": "D:\\social-network-app-master\\app\\src\\main\\res\\drawable\\profile_icon.png"
     },
     {
-        "merged": "D:\\social-network-app-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable_name.png.flat",
-        "source": "D:\\social-network-app-master\\app\\src\\main\\res\\drawable\\name.png"
+        "merged": "D:\\social-network-app-master\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_user_delete.xml.flat",
+        "source": "D:\\social-network-app-master\\app\\src\\main\\res\\layout\\activity_user_delete.xml"
     },
     {
         "merged": "D:\\social-network-app-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable_find_friend_result.xml.flat",
         "source": "D:\\social-network-app-master\\app\\src\\main\\res\\drawable\\find_friend_result.xml"
-    },
-    {
-        "merged": "D:\\social-network-app-master\\app\\build\\intermediates\\res\\merged\\debug\\layout_all_post_layout.xml.flat",
-        "source": "D:\\social-network-app-master\\app\\src\\main\\res\\layout\\all_post_layout.xml"
-    },
-    {
-        "merged": "D:\\social-network-app-master\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_main.xml.flat",
-        "source": "D:\\social-network-app-master\\app\\src\\main\\res\\layout\\activity_main.xml"
     },
     {
         "merged": "D:\\social-network-app-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable_dislike.png.flat",
@@ -324,44 +456,24 @@
         "source": "D:\\social-network-app-master\\app\\src\\main\\res\\drawable\\comment_input.xml"
     },
     {
-        "merged": "D:\\social-network-app-master\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher_round.png.flat",
-        "source": "D:\\social-network-app-master\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_round.png"
-    },
-    {
-        "merged": "D:\\social-network-app-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable_like.png.flat",
-        "source": "D:\\social-network-app-master\\app\\src\\main\\res\\drawable\\like.png"
-    },
-    {
         "merged": "D:\\social-network-app-master\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_register.xml.flat",
         "source": "D:\\social-network-app-master\\app\\src\\main\\res\\layout\\activity_register.xml"
-    },
-    {
-        "merged": "D:\\social-network-app-master\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher.png.flat",
-        "source": "D:\\social-network-app-master\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.png"
-    },
-    {
-        "merged": "D:\\social-network-app-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable_add_post_high.png.flat",
-        "source": "D:\\social-network-app-master\\app\\src\\main\\res\\drawable\\add_post_high.png"
-    },
-    {
-        "merged": "D:\\social-network-app-master\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher_foreground.png.flat",
-        "source": "D:\\social-network-app-master\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_foreground.png"
     },
     {
         "merged": "D:\\social-network-app-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable_messages.png.flat",
         "source": "D:\\social-network-app-master\\app\\src\\main\\res\\drawable\\messages.png"
     },
     {
+        "merged": "D:\\social-network-app-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable_icon.png.flat",
+        "source": "D:\\social-network-app-master\\app\\src\\main\\res\\drawable\\icon.png"
+    },
+    {
         "merged": "D:\\social-network-app-master\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher.png.flat",
         "source": "D:\\social-network-app-master\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.png"
     },
     {
-        "merged": "D:\\social-network-app-master\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_friends_list.xml.flat",
-        "source": "D:\\social-network-app-master\\app\\src\\main\\res\\layout\\activity_friends_list.xml"
-    },
-    {
-        "merged": "D:\\social-network-app-master\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_profile.xml.flat",
-        "source": "D:\\social-network-app-master\\app\\src\\main\\res\\layout\\activity_profile.xml"
+        "merged": "D:\\social-network-app-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable_identity.png.flat",
+        "source": "D:\\social-network-app-master\\app\\src\\main\\res\\drawable\\identity.png"
     },
     {
         "merged": "D:\\social-network-app-master\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher.png.flat",
@@ -370,10 +482,6 @@
     {
         "merged": "D:\\social-network-app-master\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher_foreground.png.flat",
         "source": "D:\\social-network-app-master\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_foreground.png"
-    },
-    {
-        "merged": "D:\\social-network-app-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable_profile_button.png.flat",
-        "source": "D:\\social-network-app-master\\app\\src\\main\\res\\drawable\\profile_button.png"
     },
     {
         "merged": "D:\\social-network-app-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable_upload.png.flat",

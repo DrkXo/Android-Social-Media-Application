@@ -14,7 +14,7 @@ public class ClickPostPresenter implements ClickPostContract.Presenter {
     DatabaseReference ClickPostRef, CommentsRef, UsersRef, LikeRef;
     FirebaseAuth mAuth;
 
-    String PostKey, currentUserID, description;
+    String PostKey, currentUserID, description, genre;
     Boolean likeChecker = false;
 
     public ClickPostPresenter(Context mContext, String Post_Key) {

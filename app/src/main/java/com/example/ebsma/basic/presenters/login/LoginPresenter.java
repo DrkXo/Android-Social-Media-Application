@@ -2,9 +2,10 @@ package com.example.ebsma.basic.presenters.login;
 
 import android.app.ProgressDialog;
 import android.content.Context;
-import android.support.annotation.NonNull;
 import android.text.TextUtils;
 import android.widget.Toast;
+
+import androidx.annotation.NonNull;
 
 import com.example.ebsma.basic.contracts.LoginContract;
 import com.google.android.gms.common.api.GoogleApiClient;
