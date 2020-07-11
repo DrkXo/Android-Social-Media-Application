@@ -2,7 +2,7 @@
 > Final year project of B.tech in C.S.E. In way of creating this project developer.android, GitHub, stackoverflow was our guide.
  
 ## System Installation Steps
-- Download our project from [Here](https://https://github.com/DrkXo/Android-Social-Media-Application).
+- Download our project from [Here](https://github.com/DrkXo/Android-Social-Media-Application).
 - Download Android Studio (https://developer.android.com/studio).
 - Open the project in Android Studio.
 - You need google-services.json. Create a Firebase project in the Firebase console
