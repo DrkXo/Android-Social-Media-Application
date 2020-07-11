@@ -40,4 +40,5 @@ Google Map API.
 - [Android Developement Guide By Google](https://developer.android.com/guide)
 - [Android Firebase implementation Guide](https://firebase.google.com/docs/android/setup)
 - [Android Google Map API instalation Guide](https://developers.google.com/maps/documentation/android-sdk/get-api-key)
+- [Android Map Samples By Google](https://developers.google.com/maps/documentation/javascript/examples)
 > Hope you will find it usefull. Thanks
