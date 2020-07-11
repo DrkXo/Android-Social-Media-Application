@@ -1,5 +1,6 @@
 # Android Social Media Application <img src="/app/src/main/ic_launcher-playstore.png" alt="Android Social Media Application" width="80" align="center"/>
 
+[](https://img.shields.io/github/issues/DrkXo/Android-Social-Media-Application)
 > ***Final year project of B.tech in C.S.E. In way of creating this project developer.android, GitHub, stackoverflow was our guide.***
  
 ## System Installation Steps
@@ -35,4 +36,4 @@ Google Map API.
 - Go to Build then ->
   - Clean Project.
   - Rebuild Project.
-- 
+
