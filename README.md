@@ -1,4 +1,6 @@
 # Android-Social-Media-Application
+> Final year project of B.tech in C.S.E. In way of creating this project developer.android, GitHub, stackoverflow was our guide.
+ 
 ## System Installation Steps
 - Download our project from GitHub (https://https://github.com/DrkXo/Android-Social-Media-Application).
 - Download Android Studio (https://developer.android.com/studio).
