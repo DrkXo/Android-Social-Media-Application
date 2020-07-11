@@ -36,6 +36,8 @@ Google Map API.
 - Go to Build then ->
   - Clean Project.
   - Rebuild Project.
+## APK
+- [DEBUG-APK](https://github.com/DrkXo/Android-Social-Media-Application/blob/master/app/build/outputs/apk/debug/app-debug.apk)
 ## Usefull Links
 - [Android Developement Guide By Google](https://developer.android.com/guide)
 - [Android Firebase implementation Guide](https://firebase.google.com/docs/android/setup)
